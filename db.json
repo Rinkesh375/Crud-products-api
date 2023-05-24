@@ -1,0 +1,97 @@
+
+{
+    "products":[
+      {
+        "name": "Polymare",
+        "brand": "Puma",
+        "price": 500,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Male",
+        "id": 1
+      },
+      {
+        "name": "Jackie",
+        "brand": "Adidas",
+        "price": 1000,
+        "image": "https://placehold.co/400x300",
+        "category": "Bottom-Wear",
+        "gender": "Male",
+        "id": 2
+      },
+      {
+        "name": "Edward Shirt",
+        "brand": "Roadster",
+        "price": 1600,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Male",
+        "id": 3
+      },
+      {
+        "name": "HRX by Hrithik",
+        "brand": "Puma",
+        "price": 384,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Male",
+        "id": 4
+      },
+      {
+        "name": "Kurti",
+        "brand": "Biba",
+        "price": 1198,
+        "image": "https://placehold.co/400x300",
+        "category": "Bottom-Wear",
+        "gender": "Female",
+        "id": 5
+      },
+      {
+        "name": "Ethnic Kurti",
+        "brand": "Biba",
+        "price": 504,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Female",
+        "id": 6
+      },
+      {
+        "name": "Palazzos",
+        "brand": "Biba",
+        "price": 1001,
+        "image": "https://placehold.co/400x300",
+        "category": "Bottom-Wear",
+        "gender": "Female",
+        "id": 7
+      },
+      {
+        "name": "Cotton Kurti",
+        "brand": "Puma",
+        "price": 1649,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Male",
+        "id": 8
+      },
+      {
+        "name": "Kids pant",
+        "brand": "Puma",
+        "price": 900,
+        "image": "https://placehold.co/400x300",
+        "category": "Bottom-Wear",
+        "gender": "Kids",
+        "id": 9
+      },
+        {
+        "name": "Kids Shirt",
+        "brand": "Puma",
+        "price": 1000,
+        "image": "https://placehold.co/400x300",
+        "category": "Top-Wear",
+        "gender": "Kids",
+        "id": 10
+      }
+    ]
+  }
+
+
